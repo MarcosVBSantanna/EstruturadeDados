@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1778892819 source:c:\users\francomontoro\documents\c++\exercicio1505_1\main.cpp
+	<iostream>
+	<list>
+	<iterator>
+
